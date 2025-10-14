@@ -45,7 +45,7 @@ The observed microstructures provide a clear explanation for the measured hardne
 
 | As-Received (Ferrite + Pearlite) | Annealed (Coarse Pearlite) |
 | :------------------------------: | :------------------------: |
-| ![As-Received Microstructure](microstructures/01_as_received.jpg) | ![Annealed Microstructure](microstructures/02_annealed.jpg) |
+| ![As-Received Microstructure](microstructures/01_as_receieved.jpg) | ![Annealed Microstructure](microstructures/02_annealed.jpg) |
 | **Normalized (Fine Pearlite)** | **Quenched (Martensite)** |
 | ![Normalized Microstructure](microstructures/03_normalized.jpg) | ![Quenched Microstructure](microstructures/04_quenched.jpg) |
 | **Tempered (Tempered Martensite)** |                            |
