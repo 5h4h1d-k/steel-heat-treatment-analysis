@@ -54,7 +54,7 @@ The observed microstructures provide a clear explanation for the measured hardne
 
 ---
 
-## 結論 Conclusion
+## Conclusion
 
 This experiment successfully confirmed that the mechanical properties of medium carbon steel are a direct function of its microstructure, which is controlled by the applied heat treatment. The rapid cooling during quenching formed a hard, strained martensitic structure (55 HRC), while the slow cooling of annealing formed a soft, coarse pearlitic structure (15 HRC). This project serves as a practical demonstration of fundamental materials science principles.
 
